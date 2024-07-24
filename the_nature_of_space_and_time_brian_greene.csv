@@ -1,0 +1,255 @@
+timestamp,text,start,end
+"(0.0, 5.0)"," So, thank you. It's a great pleasure to join you at this gathering.",0.0,5.0
+"(5.86, 13.18)", And I'm going to focus my attention on an area of physics,5.86,13.18
+"(13.18, 20.78)"," that I think fits in well with the themes that you have been hearing about in other arenas, other areas.",13.18,20.78
+"(21.2, 54.01)"," Because I'm going to be talking about the science of black holes. and observationally supported, but in the next age can migrate to canonical form, to everything that everybody always thought was true, everything everybody",21.2,54.01
+"(54.01, 60.45)"," thought was right. So in a way, if I was going to give one takeaway message, if I",54.01,60.45
+"(60.45, 99.79)"," can use that unfortunate language for what I'll be talking about here today, to be true and the things that you do not consider to be true, you can inadvertently cut out a whole collection of ideas that you simply at that moment in time don't have the",60.45,99.79
+"(99.79, 102.71)", intellectual architecture to judge.,99.79,102.71
+"(103.53, 109.63)", And that certainly is the case with the science of black holes.,103.53,109.63
+"(110.15, 140.5)"," Now, I recognize that people come to to give everybody a little bit of something, I'm going to start fairly basic. And then as I get toward the end of the talk, I will",110.15,140.5
+"(140.5, 146.52)", be taking on things that are right now at the cutting edge. And as Barry just mentioned,140.5,146.52
+"(146.52, 224.05)"," to me, since this is the last talk, don't yet know if they are right or wrong. deeply in a quantitative way about the force of gravity is Isaac Newton and If you cast your minds way back to the late",146.52,224.05
+"(230.51, 231.07)", 1600s again a very different era than the one that we experience a time in fact when,230.51,231.07
+"(236.27, 236.83)", The Black Death was waging a winning war against humanity and to escape the scourge,236.27,236.83
+"(267.92, 274.16)", Newton retreats to his family's back to the University of Cambridge he would throw into dazzling relief a fundamental fact a fundamental law about how the universe works and that of course is the law of gravity the universal law of gravity it's a law,267.92,274.16
+"(274.72, 311.99)", that we still teach to kids around the world you all know it f equals Sun a planet like the earth and using that little bit of mathematics we can make predictions for where the planet should be at any given moment and the wonderful thing is you look up into the night sky,274.72,311.99
+"(311.99, 318.95)", and the planets are just where the mathematics says that they should be so,311.99,318.95
+"(318.95, 352.13)"," this was one of those astonishing's not the end of a story, right? That's the beginning of a story",318.95,352.13
+"(352.13, 353.95)", because now you can take an idea,352.13,353.95
+"(353.95, 356.45)", which was previously only understood,353.95,356.45
+"(356.45, 358.33)"," in a qualitative sense,",356.45,358.33
+"(358.51, 361.51)"," and now you can put quantitative power,",358.51,361.51
+"(362.09, 365.25)"," mathematical rigor behind those phenomenon,",362.09,365.25
+"(365.93, 394.92)"," and in that way, try to go further. of escape velocity. So once you understand gravity, you can ask yourself the question, if you say you have a planet, let's focus on planet Earth, and you have a cannon,",365.93,394.92
+"(396.7, 399.08)"," you can ask yourself what happens if you fire the cannon, say,",396.7,399.08
+"(399.16, 400.42)", in a vertical direction.,399.16,400.42
+"(400.84, 402.56)"," Now, of course, if you just give",400.84,402.56
+"(402.56, 404.86)"," the cannonball a little bit of a kick,",402.56,404.86
+"(404.94, 406.12)", we all know what happens.,404.94,406.12
+"(406.74, 408.32)"," It goes up, comes down.",406.74,408.32
+"(408.42, 441.47)"," In fact, using Newton's laws, you give that ball enough of a kick and it won't come down. It will escape the gravitational pull of the earth. And in fact using that equation on the t-shirt",408.42,441.47
+"(441.47, 446.05)", you can calculate the speed that you need to give the cannonball in order,441.47,446.05
+"(446.05, 480.91)", that it will not come down. And the answer is? That's right the answer is? second row there good all right so that's absolutely true but now an interesting theoretical question comes to mind which is this that number depends upon the size of the earth so the question people ask was well like,446.05,480.91
+"(480.91, 486.09)", what if you make the earth bigger right a bigger planet and you want again to,480.91,486.09
+"(486.09, 489.79)", cause a cannonball to escape well you need a more powerful cannon if the,486.09,489.79
+"(489.79, 493.69)", planet is larger and again using Newton's laws you can calculate kick it,489.79,493.69
+"(493.69, 523.94)"," with a sufficient speed and it will depend upon the units that you like to use. Some wise person will say, well, it's one in the appropriate units.",493.69,523.94
+"(524.32, 525.7)"," But, you know, which is true.",524.32,525.7
+"(526.96, 531.56)"," 186,000 miles per second, 671 million miles per hour,",526.96,531.56
+"(531.72, 534.5)"," 300 million meters per hour, whatever unit you like,",531.72,534.5
+"(534.72, 536.68)"," there is a speed of light, right?",534.72,536.68
+"(536.68, 566.97)", And that is a number. way back when what would happen if you had say a star which if you think about it a star is nothing but a sequence of light cannons all around the surface of,536.68,566.97
+"(566.97, 572.31)", the body that are firing balls of light outward and the question is if you have,566.97,572.31
+"(572.31, 578.41)", a star and you imagine it getting ever more massive then the escape velocity,572.31,578.41
+"(578.41, 609.33)", will go up and up and at some point A body whose gravitational pull is so powerful that light cannot escape.,578.41,609.33
+"(609.33, 617.33)"," Now here's the thing. This analysis that was done by Mitchell way back 1700s using Newton's laws of gravity,",609.33,617.33
+"(617.33, 651.48)"," but Newton himself knew that his understanding of gravity was incomplete. that gives you the strength of the gravitational pull of a massive body, he was unable to answer the question of how gravity actually exerts its influence.",617.33,651.48
+"(651.68, 654.16)"," If you have the sun here and you have the earth here,",651.68,654.16
+"(654.46, 657.16)", you've basically got empty space between them.,654.46,657.16
+"(657.72, 661.26)", And Newton wondered and he pondered and he couldn't figure out,657.72,661.26
+"(661.26, 666.14)", how it could be that one body over here could affect another body over here,661.26,666.14
+"(666.14, 694.39)", without any mutual contact. Newton asked himself and indeed in his Principia He writes that the answer to that important question how gravity exerts its influence. He said I leave that,666.14,694.39
+"(694.91, 697.65)", to the consideration of the reader,694.91,697.65
+"(700.37, 705.39)"," All right, he knew it was an open problem he couldn't figure out and said you figure it out right and",700.37,705.39
+"(706.19, 738.41)"," Nobody could figure it out, right? Most people didn't even think about it until look at the most basic of questions and just see them differently. So starting in about 1907, Einstein focuses his attention on trying to figure out",706.19,738.41
+"(738.41, 743.37)", how the force of gravity works.,738.41,743.37
+"(743.37, 746.01)"," And others at the time,",743.37,746.01
+"(746.01, 780.88)"," some of the most respected, ruin your career if you focus on a problem of that nature and These were the kinds of people whose advice you should trust right these were the individuals",746.01,780.88
+"(781.4, 786.28)", That had transformed our understanding of the world in an earlier,781.4,786.28
+"(786.84, 790.42)", Era an earlier generation and yet the whole,786.84,790.42
+"(791.06, 822.25)", power of science is that you can have new thinkers come along and about eight ten years later he comes up with what he believes to be the answer for how gravity works I think many of you are familiar with the idea for those,791.06,822.25
+"(822.25, 826.15)", that aren't let me just say it in metaphor first and I'll show you a,822.25,826.15
+"(826.15, 829.91)", little visual on it Einstein basically says look if the,826.15,829.91
+"(829.91, 833.57)", puzzle is you got the Sun here you got the earth here and there's only empty,829.91,833.57
+"(833.57, 865.09)", space between them right so how could they be influencing each other he says part of the dynamical unfolding and that's a startling idea and yet it's the one that he pursues and ultimately turns it into a rigorous mathematical,833.57,865.09
+"(865.09, 869.59)", formulation so the metaphorical version goes like this forget about gravity in,865.09,869.59
+"(869.59, 872.47)", the universe for a moment a little complicated instead think about a rubber,869.59,872.47
+"(872.47, 877.35)", sheet that stretched nice and taut between us right here imagine I take a,872.47,877.35
+"(877.35, 907.48)"," marble and I set it rolling on the you can picture it doesn't go in the same straight line trajectory any longer. Now, instead, the marble goes in a curved trajectory because it's rolling on the curved",877.35,907.48
+"(907.48, 909.1)", surface of the rubber sheet.,907.48,909.1
+"(909.72, 912.84)"," That's the basic idea, but now we take it over to the universe.",909.72,912.84
+"(912.92, 914.66)"," Instead of a rubber sheet, space.",912.92,914.66
+"(915.34, 952.99)"," Instead of a bowling ball, think of any astronomical object, and the idea is merely by virtue of version that will capture all the ideas. So as you see, space is flat when there's nothing there, but if we bring in a massive body like the sun, the fabric curves. And the earth too, it also curves",915.34,952.99
+"(952.99, 958.31)"," the environment around it. And now focus your attention on the moon, because this is the point.",952.99,958.31
+"(959.21, 993.95)"," The moon is kept in orbit because it's not just pictures, animation, there's mathematics behind this, right? Slightly more complicated mathematics than Newton's",959.21,993.95
+"(993.95, 997.57)", formula that we teach to high school kids but there you see it again,993.95,997.57
+"(997.57, 1000.57)", fits nicely,997.57,1000.57
+"(1000.57, 1003.81)", with the right font size on a t-shirt.,1000.57,1003.81
+"(1003.81, 1040.08)", And that mathematics allows you to make predictions. here when the earth is on that side of the Sun compared to six months later when the earth is on the other side of the Sun and that light has to go through the curved region near the Sun and his mathematics predicts the angle between,1003.81,1040.08
+"(1040.08, 1044.58)", the straight trajectory six months earlier and the curved trajectory six,1040.08,1044.58
+"(1044.58, 1078.55)"," months later and that prediction is ultimately borne out through of the eclipse observations, Einstein theory triumph, stars not where they seemed or were calculated to be, but nobody need worry.",1044.58,1078.55
+"(1083.41, 1088.41)"," On September 22nd, 1919, Einstein gets a telegram alerting him to the success of the observations.",1083.41,1088.41
+"(1088.57, 1091.39)"," He's with a student at the time, Elise Schneider,",1088.57,1091.39
+"(1091.39, 1124.63)"," and she says to him, Professor Einstein, So with that great success, again, people notice. People pay attention. And one particular mathematician, scientist named Karl Schwarzschild,",1091.39,1124.63
+"(1125.07, 1129.99)"," who at the time was actually stationed at the Russian front during World War I,",1125.07,1129.99
+"(1130.85, 1135.59)", he starts to think about Einstein's ideas,1130.85,1135.59
+"(1135.59, 1164.04)"," and comes to sort of an amazing conclusion. him, fortuitously for us, Einstein's manuscript just happens to float out of space, drops into his hand, a hand I should say for you skeptics that looks just like my hand for whatever reason,",1135.59,1164.04
+"(1164.14, 1169.76)", but he starts to calculate with Einstein's manuscript and he realizes that if you have,1164.14,1169.76
+"(1169.76, 1212.67)"," a spherical body and you crush it down to a sufficiently small size, the warp in the fabric we see it reappearing in Schwarzschild's analysis using Einstein's more refined version of gravity. So once again we have the possibility here of an object that will not allow light to escape",1169.76,1212.67
+"(1212.67, 1215.67)"," and therefore is black, a black hole.",1212.67,1215.67
+"(1215.67, 1250.65)", So in the Einsteinian description What would an object like this actually look like out there in,1215.67,1250.65
+"(1250.65, 1256.21)", space? Well since it's black it would be hard to see but objects are always in an,1250.65,1256.21
+"(1256.21, 1262.09)", environment and that environment often has gas and dust particles. So this is,1256.21,1262.09
+"(1262.09, 1290.88)"," what it would look like. Something like this. You have dust and gas swirling When Einstein learned about these black hole solutions to his equations, to his theory of gravity,",1262.09,1290.88
+"(1294.78, 1295.58)", he actually did not believe it.,1294.78,1295.58
+"(1333.79, 1336.95)"," And it took me a while to find what I consider to be a nice skeptical expression, if you'd need to exert on a spherical body to create a black hole, the numbers seem absurd, right?",1333.79,1336.95
+"(1337.03, 1377.33)"," So to turn the sun into a black hole, you'd have to squeeze the entire sun to a couple kilometers across. just 15 minutes ago, Ray, is that correct? Yes, in the front row here, completely independently showed up with an engineered sphere",1337.03,1377.33
+"(1377.89, 1380.55)", whose size is exactly what it would need to be,1377.89,1380.55
+"(1380.55, 1384.19)", to turn the Earth into a black hole.,1380.55,1384.19
+"(1384.47, 1386.13)", Not quite as heavy.,1384.47,1386.13
+"(1388.27, 1391.41)"," But nevertheless, it gets the size right.",1388.27,1391.41
+"(1391.55, 1419.66)"," So thank you for the prop. did not warm to this idea. But thankfully, when Einstein frowned on this idea, people didn't give up, right?",1391.55,1419.66
+"(1420.18, 1423.72)", It's not as though you look at the master of an earlier age,1420.18,1423.72
+"(1423.72, 1426.28)", who had seen much further than anybody else,1423.72,1426.28
+"(1426.28, 1428.92)", and somehow you accord them,1426.28,1428.92
+"(1428.92, 1465.93)"," some kind of extra right to truth, right? planet to a fantastically small size. And that mechanism goes like this. So imagine you have a large star, say a red giant. This star supports its own enormous weight by nuclear processes that",1428.92,1465.93
+"(1465.93, 1472.57)"," happen deep in the core that generate an outward pressure. Now, sooner or later, every star will",1465.93,1472.57
+"(1472.57, 1506.45)"," use up its nuclear fuel. And when that happens, you don't have an outward push any longer, so the layers of the star and when it gets to the star's surface it blows off the surface and of course what we call the supernova explosion and what remains can no longer support its weight at all",1472.57,1506.45
+"(1506.45, 1548.12)"," and therefore just collapses right down to an arbitrarily small size collapses into at least That's good, but it's still not actual observational evidence. And the first evidence came from studying our own Milky Way galaxy.",1506.45,1548.12
+"(1548.12, 1553.12)"," The center of our Milky Way galaxy we believe there is a black hole,",1548.12,1553.12
+"(1553.12, 1557.6)", and you can begin to see why as you look at the trajectories of stars,1553.12,1557.6
+"(1557.6, 1590.27)", that get whipped around the mass of the sun.,1557.6,1590.27
+"(1590.27, 1594.97)"," So the case began to be made that these objects are actually real,",1590.27,1594.97
+"(1595.51, 1598.07)", however much Einstein thought they would not be.,1595.51,1598.07
+"(1598.69, 1636.65)", But the clincher for the case for black holes per se. They were on the possibility of gravitational waves right the basic idea that's being expressed in these mathematical equations is that if,1598.69,1636.65
+"(1637.61, 1641.81)", Space is like a rubber sheet right before I put a bowling ball on it,1637.61,1641.81
+"(1641.81, 1644.63)", But now let me leave the sheet nice and flat here instead,1641.81,1644.63
+"(1644.63, 1675.4)"," Imagine I go up to the sheet and I start tapping its surface you all know what will happen about space and time as a dynamical entity, then as objects move through the environment they should in essence tap the rubber sheet, send out ripples in the",1644.63,1675.4
+"(1675.4, 1683.52)"," fabric of space, send out gravitational waves. Now Einstein himself had a fairly",1675.4,1683.52
+"(1683.52, 1720.98)"," curious relationship with this insight because over the years he became quite theory is so subtle that sometimes even Einstein couldn't quite figure it all out. That's sort of a weird thought, right? You know, Einstein, the equations in the general theory of relativity, they are called the",1683.52,1720.98
+"(1720.98, 1722.96)", Einstein field equations.,1720.98,1722.96
+"(1724.16, 1728.76)"," And yet, in analyzing those equations, there were issues that Einstein himself had trouble",1724.16,1728.76
+"(1728.76, 1761.55)", fully coming to terms with. And what qualities of the mathematical equation should describe something actually out there in the world and by that point by the 1960s? It became perfectly clear that if you did have for instance,1728.76,1761.55
+"(1761.79, 1767.09)", Two neutron stars or even black holes that were orbiting each other in space,1761.79,1767.09
+"(1767.27, 1770.89)", They would disturb the fabric of space and send out,1767.27,1770.89
+"(1771.57, 1809.04)"," These ripples now, calculation, you find that for a typical astrophysical event,",1771.57,1809.04
+"(1809.74, 1845.9)", the amount by which Earth would be stretched and changes is a fraction of an atomic diameter and,1809.74,1845.9
+"(1847.1, 1854.1)"," again, the beauty of the progression of scientific ideas is that sure you",1847.1,1854.1
+"(1854.44, 1889.13)", Can be deeply skeptical that you'd ever be able to measure anything like that out there and two machines were built in the United States one in Washington State one in Louisiana and as you can see here each of these machines involves two arms basically two tunnels,1854.44,1889.13
+"(1889.13, 1893.73)", at right angles to each other so if I match the orientation on the screen,1889.13,1893.73
+"(1893.73, 1894.77)", something like this,1893.73,1894.77
+"(1894.77, 1898.87)", and the idea is that light beams are sent down these two tunnels,1894.77,1898.87
+"(1898.87, 1902.77)", they bounce off of mirrors and they come back and when the light recombines,1898.87,1902.77
+"(1902.77, 1931.88)"," the pattern that arises when the tunnel, races along, hits a mirror at the far end and comes back. This is happening in both of those tunnels simultaneously.",1902.77,1931.88
+"(1932.62, 1937.04)", And the way the light comes back and crosses itself at the center,1932.62,1937.04
+"(1937.04, 1942.62)"," is highly sensitive to the lengths of the two arms, the two tunnels.",1937.04,1942.62
+"(1943.32, 1974.6)", And that means that if a gravitational wave were to roll by two wave trains along the two tunnels cross. So this idea was put forward in the in the 1960s as a means of possibly detecting these ripples in the fabric of,1943.32,1974.6
+"(1974.6, 1981.22)", space and thankfully the National Science Foundation decided to fund the,1974.6,1981.22
+"(1981.22, 2062.48)"," actual building of the devices that I showed you there and at first for many was just impossible, right? And yet they stayed at it. And amazingly on September 14th this signal, September of 15, the announcement of a discovery was in February of 16,",1981.22,2062.48
+"(2063.42, 2065.24)"," because during those months,",2063.42,2065.24
+"(2065.8, 2071.88)", these researchers were desperately trying to prove,2065.8,2071.88
+"(2071.88, 2104.9)"," that this wasn't a real signal, right? possibility was the team of researchers had put in place a mechanism by which test signals were put into the device to see if everybody was awake and would",2071.88,2104.9
+"(2104.9, 2110.08)", capture the signal if it was actually there you know you put in a test signal,2104.9,2110.08
+"(2110.08, 2113.82)", and you come in the next day you say to the graduate student so anything,2110.08,2113.82
+"(2113.82, 2144.01)", interesting happened last night no no nothing nothing at all and that's the it wasn't me you go to the second one did you do it no and they go down the line everybody says I didn't do it start to think maybe maybe it's real and they,2113.82,2144.01
+"(2144.01, 2148.45)", beat on it and they beat on it and they eliminate all other potential,2144.01,2148.45
+"(2148.45, 2155.27)", explanations and come to the conclusion that it is real and in fact they don't,2148.45,2155.27
+"(2155.27, 2189.68)", just come to the conclusion that the signal ultimately is this and this is where it ties into our theme here the,2155.27,2189.68
+"(2189.68, 2199.7)", explanation is that 1.3 billion years ago two black holes were orbiting each,2189.68,2199.7
+"(2199.7, 2229.78)", other 1.3 billion light years away now this is a time when there are you know A tidal wave in the fabric of space whose energy output is 50 times the energy output of every single star in every single galaxy in the observable universe.,2199.7,2229.78
+"(2229.88, 2235.66)", You put all that together and it doesn't even match the power of that tidal wave in the fabric of space.,2229.88,2235.66
+"(2236.12, 2238.76)", Now that tidal wave in the fabric of space is very far away.,2236.12,2238.76
+"(2239.12, 2242.26)", It starts to spread out in all directions at the speed of light.,2239.12,2242.26
+"(2242.32, 2244.38)", So part of it is racing toward planet Earth.,2242.32,2244.38
+"(2244.48, 2272.37)"," Again, nothing happening approaches planet Earth, when it is 100 light years away,",2244.48,2272.37
+"(2272.43, 2273.83)"," about 100 years ago,",2272.43,2273.83
+"(2274.09, 2275.93)", an individual named Albert Einstein,2274.09,2275.93
+"(2275.93, 2278.31)", starts to think about the possibility,2275.93,2278.31
+"(2278.31, 2280.49)"," there might be these ripples in the fabric of space,",2278.31,2280.49
+"(2280.57, 2282.77)", completely unaware that a big one,2280.57,2282.77
+"(2282.77, 2285.79)"," is already racing toward planet Earth,",2282.77,2285.79
+"(2286.07, 2288.17)", and does these calculations that I've described.,2286.07,2288.17
+"(2288.75, 2317.02)"," Nobody really thinks that you can detect them, light days away. They turn on the newly revamped version of that experiment and two days later that wave washes by planet Earth and gives rise to that",2288.75,2317.02
+"(2317.02, 2328.94)", signal. Now if that progression doesn't fill you with awe and reverence for what,2317.02,2328.94
+"(2328.94, 2360.54)", the human brain is capable ultimately to a confirmation that two,2328.94,2360.54
+"(2360.54, 2365.76)", black holes collided with each other some time ago. But it's still not the,2360.54,2365.76
+"(2365.76, 2404.59)"," most direct evidence. Even more direct evidence would come from taking a to, in essence, take a radio photograph of a black hole. And I think as many of you saw, this image was released some months ago, last spring.",2365.76,2404.59
+"(2404.81, 2409.21)", The first direct image of a black hole.,2404.81,2409.21
+"(2410.09, 2417.11)"," Now, a lot of media interest focused on this photograph,",2410.09,2417.11
+"(2417.83, 2443.34)", rightfully so. photo of a black...it's very hard to please you know some people. You know it's only eight radio telescopes so it's in some sense you know limited in its pixels.,2417.83,2443.34
+"(2443.34, 2444.28)", People will do better.,2443.34,2444.28
+"(2444.28, 2448.64)", But the amazing thing to me is literally one week after this,2444.28,2448.64
+"(2448.64, 2454.04)", photograph was released a far sharper image of a black hole was,2448.64,2454.04
+"(2454.04, 2489.04)"," in fact released and that of course So this is the culmination of a long journey, but again it's not the end of a journey. We now know that these things are real, but now we need to deeply understand them.",2454.04,2489.04
+"(2489.04, 2493.24)", And so what I'll do in the remaining three hours is...,2489.04,2493.24
+"(2493.24, 2496.82)"," Don't worry, I'll be gentle.",2493.24,2496.82
+"(2496.82, 2498.48)", We're reaching the end.,2496.82,2498.48
+"(2498.48, 2533.33)"," In the remaining time, I'm just going tell you is true, of course, but it does suggest that it's worthy of detailed scrutiny because the sequence of ideas that we have been following",2498.48,2533.33
+"(2533.33, 2572.14)"," has yielded, ultimately, evidence and data confirming ideas that many of the smartest people on the planet and I take out my wallet and I throw my wallet into the black hole. It reaches the edge, the event horizon as we call it, and it goes over. Now, according to Einstein's equations,",2533.33,2572.14
+"(2572.7, 2577.1)"," when an object falls over the edge of a black hole, it is gone, right?",2572.7,2577.1
+"(2577.48, 2579.36)", Nothing can get out of a black hole.,2577.48,2579.36
+"(2579.42, 2580.74)", The gravity is too strong.,2579.42,2580.74
+"(2581.38, 2621.66)"," And therefore, once it goes wallet in particular, it's got obvious information. Credit card numbers, photographs, things of that sort. But there's also information in how the molecules and atoms of my wallet are arranged to create that physical structure.",2581.38,2621.66
+"(2621.66, 2657.77)"," And if an object falls over the edge of a black hole and is permanently gone, that means the of how the world progresses will radically change. Now Stephen Hawking believed for a very long time",2621.66,2657.77
+"(2657.77, 2663.57)"," that information would be lost just as Mulvaney said, get over it, right? That",2657.77,2663.57
+"(2663.57, 2668.95)", was the approach that Stephen Hawking took. Many other physicists,2663.57,2668.95
+"(2668.95, 2700.18)"," did not believe that that was the right edge of the black hole. That can be sort of stored as bits, zeros and ones",2668.95,2700.18
+"(2700.18, 2706.12)"," schematically drawn here. So much so, the idea would go, that if you recover that",2700.18,2706.12
+"(2706.12, 2709.54)"," information, because it's on the outside of the black hole after all, you could",2706.12,2709.54
+"(2709.54, 2743.58)"," use it to reconstruct any object that went inside. Now object that filled in the wallet, so much so that you could actually rebuild the object if you wanted to. Now that notion, that you can have a three-dimensional object",2709.54,2743.58
+"(2743.58, 2749.14)", within an environment that's fully described by data,2743.58,2749.14
+"(2749.14, 2752.04)"," on a thin two-dimensional surface that surrounds it,",2749.14,2752.04
+"(2752.36, 2753.96)", should ring a bell.,2752.36,2753.96
+"(2754.66, 2757.6)", And that bell is holograms.,2754.66,2757.6
+"(2758.0, 2785.37)", So what is a hologram? of a black hole fully articulated by data on this thin two-dimensional surface that surrounds us. So this gives rise to what's known as the holographic principle.,2758.0,2785.37
+"(2785.37, 2790.15)", The idea that there's a dual description of the world.,2785.37,2790.15
+"(2790.15, 2796.39)"," You've got the ordinary description that we're familiar with, three-dimensional solid objects,",2790.15,2796.39
+"(2796.39, 2801.57)", but there's an alternative description using data on a two-dimensional surface that surrounds,2796.39,2801.57
+"(2801.57, 2827.64)"," those objects. They're basically the same thing. Space is space. So if the wallet inside the black hole can be described by data on a surface that surrounds it, maybe that's true absolutely everywhere.",2801.57,2827.64
+"(2827.64, 2831.4)"," Maybe every three-dimensional object, regardless of where it is,",2827.64,2831.4
+"(2831.4, 2834.76)"," has a dual alternative description as a hologram,",2831.4,2834.76
+"(2834.76, 2837.8)", data stored on a two-dimensional surface that surrounds it.,2834.76,2837.8
+"(2837.8, 2841.22)", So an image that you might have would be this.,2837.8,2841.22
+"(2841.22, 2869.86)"," I don't know if you can see it. Hopefully you can back there. I can't see it up here. but stored on a two-dimensional surface. So this notion that emerges from these ideas suggests that you and I and everything else,",2841.22,2869.86
+"(2869.86, 2875.3)", we are just the holographic projection of data,2869.86,2875.3
+"(2875.3, 2878.7)"," that lives on a distant, thin, two-dimensional surface,",2875.3,2878.7
+"(2878.84, 2881.22)"," perhaps at the boundary of the observable universe,",2878.84,2881.22
+"(2881.62, 2884.5)"," not illuminated by a laser with a real hologram,",2881.62,2884.5
+"(2884.62, 2915.17)"," but rather illuminated by the laws of physics. it's where this sequence of ideas has taken us. Now, whether it's right or wrong will have to be ultimately determined by future experiments, future observations.",2884.62,2915.17
+"(2916.03, 2917.87)"," But to me, it's utterly remarkable",2916.03,2917.87
+"(2917.87, 2920.93)"," how simply by sort of following the dots,",2917.87,2920.93
+"(2921.35, 2924.09)"," starting with Einstein and the development of his equations,",2921.35,2924.09
+"(2924.09, 2960.14)", we come to a picture of the world that does sound absurd. another crazy idea. All right. All right. So I'll go through it relatively quickly as time is short. And the ideas are a little bit tricky. So to fully explain them would take a long time. So I'm,2924.09,2960.14
+"(2960.14, 2965.38)", now going to cater a little bit more to those who have some familiarity with some of these concepts.,2960.14,2965.38
+"(2965.38, 3001.6)", But the final thing I'll tell you about is this. quantum entanglement. How many people are familiar with that idea? A lot of you? So that's the idea that you can have two distant objects that somehow behave as though they're connected by invisible quantum threads. A very strange idea.,2965.38,3001.6
+"(3001.6, 3007.0)", Again one that Einstein resisted. His paper was basically trying to say look how crazy,3001.6,3007.0
+"(3007.0, 3011.08)", it is that quantum mechanics is suggesting this possibility but yet we,3007.0,3011.08
+"(3011.08, 3040.79)"," now believe that it's not just crazy it's right. Second paper that Einstein Everybody's encountered that idea. If you watch Deep Space Nine or any number of science fiction films have the notion of wormholes, which are tunnels that connect",3011.08,3040.79
+"(3040.79, 3046.61)", two distant regions of space. Einstein did not think that these two papers had,3040.79,3046.61
+"(3046.61, 3052.19)"," anything to do with each other, completely different ideas, and yet in",3046.61,3052.19
+"(3052.19, 3083.88)"," the last few years we've come to think that those two 1935 papers may be deeply idea, this idea of wormholes, just to give you a picture to have in mind, imagine you've got two distant regions that create a kind of tunnel between them, a",3052.19,3083.88
+"(3083.88, 3090.78)"," kind of shortcut between one region of space and another. So that's the paper, I",3083.88,3090.78
+"(3090.78, 3095.5)"," think I said June, actually I think it's July of 1935, that Einstein comes up with",3090.78,3095.5
+"(3095.5, 3127.14)"," this idea, solves the equations of general relativity and shows that you to describe what I want to tell you about I've got to be a little bit more precise certainly on the entanglement an idea and to do that I'm going to use the canonical example that everybody talks about with entanglement which has to do",3095.5,3127.14
+"(3127.14, 3131.34)", with spin particles in the world elementary particles all spin around,3127.14,3131.34
+"(3131.34, 3136.02)", like little tops amazingly they can only spin in one of two directions clockwise,3131.34,3136.02
+"(3136.02, 3170.41)", or counterclockwise and if it's measure the particle does it kind of snap out of the haze and spin up or snap out of the haze and spin down that's the weirdness of quantum physics now I want you to take this idea with me,3136.02,3170.41
+"(3170.41, 3175.51)", one step further because what Einstein was imagining is two particles each of,3170.41,3175.51
+"(3175.51, 3180.01)", which is spinning up and down simultaneously you separate them very,3175.51,3180.01
+"(3180.01, 3211.68)", far apart and according to his calculations if you measure one there. And that was his argument. The world can't be spooky and therefore quantum mechanics cannot be a full theory of the world. But the reality of it is this kind of,3180.01,3211.68
+"(3211.68, 3216.84)"," effect is now observed all the time. So you have two distant particles, say one in",3211.68,3216.84
+"(3216.84, 3221.34)"," Las Vegas, the other in New York. I go over to the one in Las Vegas, I measure it",3216.84,3221.34
+"(3221.34, 3225.76)", and the one in New York is forced out of the quantum haze,3221.34,3225.76
+"(3225.76, 3255.82)"," at the same moment. A very, very strange So imagine I focus in on a black hole. And that black hole, say, could be floating in space. And as I mentioned before, this holographic idea tells us",3225.76,3255.82
+"(3255.82, 3259.44)", that this black hole has an alternative description,3255.82,3259.44
+"(3259.44, 3264.34)"," in terms of a thin sphere that surrounds it,",3259.44,3264.34
+"(3264.38, 3266.16)", basically at the event horizon.,3264.38,3266.16
+"(3266.56, 3269.94)"," So in order to show that, I'm going to go down to sort of a two-dimensional version",3266.56,3269.94
+"(3269.94, 3297.39)", that's easier for us to see. holes. Each is described in this holographic language as a surface that surrounds it. And imagine further that we take Einstein's idea of quantum,3269.94,3297.39
+"(3297.39, 3303.81)", entanglement and we entangle those two outer surfaces. What would that entail,3297.39,3303.81
+"(3303.81, 3342.0)"," for the geometry of the interior region? And here is the beautiful insight. wormholes on the inside and we recognize that they are the same thing just described in two different languages. Einstein I think would be shocked in many ways by the picture I'm showing you right here,",3303.81,3342.0
+"(3342.0, 3347.0)", but it's a picture that comes right out of our analysis with string theory.,3342.0,3347.0
+"(3347.0, 3383.44)"," And in fact some researchers have taken this picture and pushed it even a little further. there's something amazing that pops out of the equations. If you start to cut the lines of entanglement, look at the entanglement line, the yellow line at the top, I'm about to cut it right now. So there it goes, I'm gonna cut that guy",3347.0,3383.44
+"(3383.44, 3389.42)", away. What does that imply for the geometry in the inner description? It,3383.44,3389.42
+"(3389.42, 3395.62)", entails that the geometry gets cut in half. The actual space itself gets cut in,3389.42,3395.62
+"(3395.62, 3425.09)"," half if you sever some of the lines of quantum entanglement, see what it does to the geometry. And the geometry basically pixelates. It falls apart. Which means if I turn this story around backwards...",3395.62,3425.09
+"(3425.09, 3428.31)", In order to have a fabric of space...,3425.09,3428.31
+"(3428.31, 3432.23)", You have to stitch together the individual plaquettes.,3428.31,3432.23
+"(3432.31, 3433.27)", The individual pixels.,3432.31,3433.27
+"(3433.65, 3434.99)", How do you stitch them together?,3433.65,3434.99
+"(3435.61, 3438.89)", You stitch it together with the threads of quantum entanglement.,3435.61,3438.89
+"(3439.89, 3468.88)"," So the fabric of space itself... entanglement. Again a wild, strange, crazy sounding idea, but naturally comes out of the mathematics and we have sort of grown to have a degree of confidence. Not",3439.89,3468.88
+"(3468.88, 3473.38)"," necessary that all math tells us the true workings of the world, but certainly",3468.88,3473.38
+"(3473.38, 3478.38)", is worth our focus to try to determine whether these ideas are right or wrong,3473.38,3478.38
+"(3478.38, 3481.96)", because the payoff and the depth of understanding would be utterly,3478.38,3481.96
