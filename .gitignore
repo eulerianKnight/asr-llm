@@ -166,3 +166,5 @@ cython_debug/
 embedding_models/
 whisper/
 *.mp3
+.vscode/
+.idea/
